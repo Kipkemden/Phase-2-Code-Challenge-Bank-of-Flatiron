@@ -120,6 +120,21 @@
       "amount": "300",
       "data": "2",
       "id": 17
+    },
+    {
+      "date": "",
+      "description": "Restaurant Payment",
+      "category": "Food",
+      "amount": "2500",
+      "data": "2023-05-26",
+      "id": 18
+    },
+    {
+      "date": "2023-05-06",
+      "description": "Restaurant Payment",
+      "category": "Food",
+      "amount": "350",
+      "id": 19
     }
   ]
 }
