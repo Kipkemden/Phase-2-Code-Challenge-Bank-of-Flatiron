@@ -24,7 +24,6 @@ function AddTransactionForm({ onAddTransaction }) {
     })
     .then(response => response.json())
     .then(data => onAddTransaction(data))
-    // console.log(formData);
   }
 
   function handleChange(event) {
